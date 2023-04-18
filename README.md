@@ -3,6 +3,16 @@
 This is a save editor for Resident Evil 4 on the oculus/meta quest.  RE4VR is such an awesome game for the console and a resounding nostalgic experience for
 the seasoned fan of the franchise.  My love for the game exteneds to the modding community that surrounds it. This is my way to give back.
 
+## Usage
+* Backup existing RE4VR Save Data
+* Copy the savegame00.sav to your computer.
+* Open a copy of your save file in the editor.
+  * Tip: Associate the .exe with the .sav extension to double click to open.
+* Select the slot you want to edit.
+  * Tip: On the general tab you can see and edit the name of the slot.
+* Hit Save
+* Replace the file onto the oculus/meta.
+* Restart the game and enjoy the mods.
 
 ## Features
 
